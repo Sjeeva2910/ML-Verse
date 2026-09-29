@@ -167,4 +167,37 @@ The project follows basic security practices including:
 
 ML-Verse aims to provide a simple and accessible platform for interacting with machine-learning and AI-powered functionality through a web interface.
 
-The project also serves as a pra
+The project also serves as a practical full-stack development project covering:
+
+* Frontend development
+* Backend API development
+* AI API integration
+* Middleware
+* Authentication/security concepts
+* Project structure and deployment practices
+
+## 🔮 Future Improvements
+
+* User authentication and profiles
+* More ML models and AI features
+* Improved recommendation algorithms
+* Persistent user history
+* Advanced comparison features
+* Cloud deployment
+* Improved UI/UX
+* Automated testing
+* Performance optimization
+
+## 👨‍💻 Author
+
+**Jeeva S**
+
+GitHub: [@Sjeeva2910](https://github.com/Sjeeva2910)
+
+## ⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
+
+---
+
+**ML-Verse — Explore. Compare. Recommend. 🤖**
