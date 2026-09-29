@@ -1,0 +1,14 @@
+{
+  "name": "mlverse-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "node server/index.js",
+    "client": "npm --prefix client run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "npm --prefix client run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
